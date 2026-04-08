@@ -1,8 +1,8 @@
 def add(a , b ):
     return (a+b)
-def Calculatedifference(a,b):
+def calculateDifference(a,b):
     return abs(a-b)
-def CalculateProduct(a,b):
+def calculateProduct(a,b):
     return (a*b)
 def divideNumbers(a,b):
     if(b!=0):
