@@ -6,4 +6,4 @@ for i in range(5):
     print('------------')
 print("Data Successfully written")
 filev.close()
-print(filev.read)
+# print(filev.read)
